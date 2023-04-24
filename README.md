@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Former Software Engineer at Agartee
 - 👨‍🎓 Graduated BCIT CST
 - ⚡ Fun fact: My first degrees were BA major in Chemistry and Business Administration (minor). 
--              I was a Manager of the Quality Assurance team for 5 years at UIL.
+- ⚡ Fun fact:I was a Manager of the Quality Assurance team for 5 years at UIL.
 
 <h2>My tech stack 📚</h2>
 
