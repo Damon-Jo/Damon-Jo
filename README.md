@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨‍🎓 Graduated BCIT CST
+- 💻Currently working as a web developer at Sisa Energy (Intern)
 - 💬 Former Software Engineer at Agartee
-- 💻Currently working as a web developer at Sisa Energy (Intern).
-- ⚡ Fun fact: My first degrees were BA major in Chemistry and Business Administration(minor). I was a Manager of the Quality Assurance team for 5 years at UIL.
+- 👨‍🎓 Graduated BCIT CST
+- ⚡ Fun fact: My first degrees were BA major in Chemistry and Business Administration (minor). I was a Manager of the Quality Assurance team for 5 years at UIL.
 
 <h2>My tech stack 📚</h2>
 
